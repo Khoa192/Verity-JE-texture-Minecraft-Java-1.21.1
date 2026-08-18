@@ -5,4 +5,4 @@
 * **GUI Modification:** Changes the in-game GUI/UI to a solid black screen.
 * **Block Texture Tweak:** Makes the **Grass Block** greener.
 * **Shader:** Add **classic fog**.
-* **Torches Reimagined:** aims to **freshen up the old vanilla torch**
+* **Torches Reimagined:** aims to **freshen up the old vanilla torch**.
